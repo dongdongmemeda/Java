@@ -1,6 +1,5 @@
 # Java
 
-author:caidong
 caidong-UESTC-2013-cs
 
-"Instant messing system" is my graduation design.  2017.5.28
+"Instant messing system" is my graduation design.   2017.5.28
